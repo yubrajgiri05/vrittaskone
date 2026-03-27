@@ -6,9 +6,7 @@ This project is built using **Next.js** and **Tailwind CSS** for creating a fast
 
 ## Live Demo
 
- https://abc.com
-
----
+https://vrittaskone.vercel.app/
 
 ##  Tech Used
 
@@ -19,10 +17,6 @@ This project is built using **Next.js** and **Tailwind CSS** for creating a fast
 
 
 
-```bash
-npm install
-npm run dev
-```
 
 Open http://localhost:3000 in your browser.
 
